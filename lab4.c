@@ -43,3 +43,7 @@ int main(){
        }
        return 0;
 }
+
+
+//gcc -fopenmp lab1.c -o lab1
+//./lab1
