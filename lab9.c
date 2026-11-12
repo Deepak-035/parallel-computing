@@ -29,6 +29,6 @@ int main(int argc, char **argv) {
 
 }
 
-
+//cl lab9.c msmpi.lib
 //gcc lab9.c -o lab9 -lmsmpi
 //mpiexec -n 4 ./lab9
