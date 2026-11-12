@@ -31,3 +31,6 @@ int main(int argc, char **argv)
 
     return 0;
 }
+
+//gcc lab9.c -o lab9 -lmsmpi
+//mpiexec -n 4 ./lab9
